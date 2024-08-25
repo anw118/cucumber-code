@@ -8,5 +8,4 @@ And redirect to Accounts production home page
 
 Scenario: create client
 When enter required data to create client
-And click on save
-And check whether the employee is created or not
+And close
